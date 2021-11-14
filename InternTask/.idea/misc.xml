@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/InternTask/app/src/main/res/drawable/bottom_design.xml" value="0.2703125" />
+        <entry key="..\:/InternTask/app/src/main/res/drawable/btn_back.xml" value="0.2703125" />
+        <entry key="..\:/InternTask/app/src/main/res/drawable/floting_button.xml" value="0.2703125" />
+        <entry key="..\:/InternTask/app/src/main/res/drawable/flotingbtn_back.xml" value="0.2703125" />
+        <entry key="..\:/InternTask/app/src/main/res/drawable/friend_sample.xml" value="0.2703125" />
+        <entry key="..\:/InternTask/app/src/main/res/drawable/main_back_ground.xml" value="0.26615384615384613" />
+        <entry key="..\:/InternTask/app/src/main/res/drawable/recent_btn.xml" value="0.26615384615384613" />
+        <entry key="..\:/InternTask/app/src/main/res/drawable/upcoming_sammple_side.xml" value="0.2703125" />
+        <entry key="..\:/InternTask/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/InternTask/app/src/main/res/layout/activity_screen2.xml" value="0.25416666666666665" />
+        <entry key="..\:/InternTask/app/src/main/res/layout/activity_screen4.xml" value="0.264" />
+        <entry key="..\:/InternTask/app/src/main/res/layout/fragment_receive.xml" value="0.25416666666666665" />
+        <entry key="..\:/InternTask/app/src/main/res/layout/fragment_return.xml" value="0.4" />
+        <entry key="..\:/InternTask/app/src/main/res/layout/friend_sample.xml" value="0.4" />
+        <entry key="..\:/InternTask/app/src/main/res/layout/style.xml" value="0.25416666666666665" />
+        <entry key="..\:/InternTask/app/src/main/res/layout/upcoming_rv_sample.xml" value="0.6" />
+        <entry key="..\:/InternTask/app/src/main/res/layout/user_sample.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

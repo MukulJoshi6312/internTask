@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InternTask</string>
+    <string name="total_exchanges">"total\nexchanges"</string>
+    <string name="upcoming_paybacks">"upcoming\npaybacks"</string>
+    <string name="upcoming_due">"upcoming\ndues"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
